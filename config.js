@@ -10,25 +10,25 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
-//Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +50231458537
+//Sólo aplica para opción 2 (ser bot con código de texto de 9 digitos)
+global.botNumberCode = '' //Ejemplo: 876598622
 global.confirmCode = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-['50231458537', '۪〬.࠭⤿ 👑 ⋅ Brayans Owner', true],
-['15614809253', '۪〬.࠭⤿ 👑 ⋅ David soport', true],
-['50248019799', '۪〬.࠭⤿ 🐶 ⋅ Diego no hace nada', true],
-['526242635831', '۪〬.࠭⤿ 👑 ⋅ Valeria', true],
-['72345678910', '۪〬.࠭⤿ 👤 ⋅ Name', true]
+['.', '۪〬.࠭⤿ 👑 ⋅ Brayans Owner', false],
+['.', '۪〬.࠭⤿ 👑 ⋅ David soport', false],
+['.', '۪〬.࠭⤿ 🐶 ⋅ Diego no hace nada', false],
+['833152230', '۪〬.࠭⤿ 👑 ⋅ Edio', true],
+['876598622', '۪〬.࠭⤿ 👤 ⋅ Sousa, true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['51946509137', '50248019799', '50231458537', '15614809253']
-global.suittag = ['50231458537'] 
-global.prems = ['51946509137', '50248019799', '5031458537', '15614809253']
+global.mods = ['876598622']
+global.suittag = ['876598622'] 
+global.prems = ['833152230']
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -48,7 +48,7 @@ global.NakanoJadibts = true
 global.packname = 'ＮａｇｉＢｏｔ－ｖ²'
 global.botname = '𝙉𝙖𝙜𝙞𝘽𝙤𝙩-𝙫²'
 global.wm = '𝙽𝙰𝙶𝙸𝙱𝙾𝚃𝙼𝙳'
-global.author = 'Ｂｒａｙａｎ Ｂｙ ｎａｇｉＢｏｔ'
+global.author = 'Edio Ｂｙ ｎａｇｉＢｏｔ'
 global.dev = 'ℙ𝕠𝕨𝕖𝕣𝕕 𝔹𝕪 𝔹𝕣𝕒𝕪𝕒𝕟𝕄𝕠𝕤𝕔𝕠𝕤𝕠'
 global.textbot = '𝙽𝚊𝚐𝚒𝙱𝚘𝚝𝚟² :𝙱𝚛𝚊𝚢𝚊𝚗'
 global.etiqueta = '@𝙱𝚁𝙰𝚈𝙰𝙽 𝙼𝙾𝚂𝙲𝙾𝚂𝙾'
@@ -78,13 +78,8 @@ global.photoSity = [catalogo]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/EteP5pnrAZC14y9wReGF1V'
-global.comunidad1 = 'https://chat.whatsapp.com/DeJvBuS7QgB3Ybp1BZulWL'
-global.channel = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'
-global.channel2 = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'
+global.gp1 ''
 global.md = 'https://github.com/El-brayan502/NagiBotV2'
-global.correo = 'brayanfree881@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029Vb4cQJu2f3EB7BS7o11M';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 

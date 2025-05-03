@@ -11,8 +11,8 @@ import moment from 'moment-timezone'
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 9 digitos)
-global.botNumberCode = '' //Ejemplo: 876598622
-global.confirmCode = ''
+global.botNumberCode = '258833152230' //Ejemplo: 876598622
+global.confirmCode = '258833152230'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -20,15 +20,15 @@ global.owner = [
 ['.', '۪〬.࠭⤿ 👑 ⋅ Brayans Owner', false],
 ['.', '۪〬.࠭⤿ 👑 ⋅ David soport', false],
 ['.', '۪〬.࠭⤿ 🐶 ⋅ Diego no hace nada', false],
-['833152230', '۪〬.࠭⤿ 👑 ⋅ Edio', true],
-['876598622', '۪〬.࠭⤿ 👤 ⋅ Sousa, true]
+['258833152230', '۪〬.࠭⤿ 👑 ⋅ Edio', true],
+['258876598622', '۪〬.࠭⤿ 👤 ⋅ Sousa, true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['876598622']
-global.suittag = ['876598622'] 
-global.prems = ['833152230']
+global.mods = ['258876598622']
+global.suittag = ['258876598622'] 
+global.prems = ['258833152230']
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
